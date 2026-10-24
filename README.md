@@ -1,5 +1,5 @@
 # Especialista em Linux
-Projeto da DIO de criação de um notebook LM
+Projeto da DIO de criação de um notebook LM, link do notebook: https://notebook.google.com/notebook/2ef30346-477c-43ab-9c66-25cd1998aa38
 
 Fontes de Texto:
 
@@ -21,17 +21,15 @@ https://www.kernel.org/doc/html/latest/process/code-of-conduct.html
 
 Essas 8 primeiras fontes do [Kernel.org](https://www.kernel.org/doc/html/latest/) acima, são confiáveis pois ela é feita pelos próprios membros da comunidade Linux que desenvolvem o Kernel em conjunto.
 
-Linux Device Drivers, third edition.pdf - Este livro em seu conteúdo mostra de forma robusta um caminho para se tornar um hacker do kernel do Linux. 
+https://lwn.net/Kernel/LDD3/ - Linux Device Drivers, third edition.pdf - Este livro em seu conteúdo mostra de forma robusta um caminho para se tornar um hacker do kernel do Linux. 
 
-Entendendo e Dominando o Linux.pdf - Este livro é guia robusto que ensina desde como instalar o Linux no computador e como proceder com os comandos de configuração para ajustar o Linux na máquina.
+https://www.academia.edu/27077544/Entendendo_e_Dominando_o_Linux - Entendendo e Dominando o Linux.pdf - Este livro é guia robusto que ensina desde como instalar o Linux no computador e como proceder com os comandos de configuração para ajustar o Linux na máquina.
 
-Introdution to Linux(MIT).pdf - Este é um pequeno guia introdutório de Linux onde o mesmo ensina alguns comandos do Linux que são úteis para os usuários na configuração do dispositivo. Também considero confiável por ser uma fonte ligada ao MIT.
+https://wiki.sj.ifsc.edu.br/images/c/c1/Apostila_linux_basico.pdf - Apostila Linux IFSC.pdf - É um livro que fala instrui desde a configuração do Kernel, do histórico do Linux e de como configurar a os arquivos do sistema Linux, outro motivo para confiar no documento é a fonte do arquivo ser da IFSC.
 
-Apostila Linux IFSC.pdf - É um livro que fala instrui desde a configuração do Kernel, do histórico do Linux e de como configurar a os arquivos do sistema Linux, outro motivo para confiar no documento é a fonte do arquivo ser da IFSC.
+http://algol.dcc.ufla.br/~monserrat/apostila_introducao_linux.pdf - Linux Introdução UFLA.pdf - É um livro introdutório sobre o Linux que é ligado ao pessoal da Universidade Federal de Lavras, onde fala sobre desde a história do Linux e comandos básicos do Linux.
 
-Linux Introdução UFLA.pdf - É um livro introdutório sobre o Linux que é ligado ao pessoal da Universidade Federal de Lavras, onde fala sobre desde a história do Linux e comandos básicos do Linux.
-
-Hands on Guide(Matchtelt Garrels).pdf - É um livro robusto que instrui desde como configurar o sistema e comandos de configuração do sistema Linux.
+https://drive.google.com/file/d/0B3Mh924ut5WweHcxU1dBZVhsVlk/view?resourcekey=0-0c3zfi9YrpcWdV6VTvijGQ - Hands on Guide(Matchtelt Garrels).pdf - É um livro robusto que instrui desde como configurar o sistema e comandos de configuração do sistema Linux.
 
 https://www.linuxpro.com.br/dl/guia_500_comandos_Linux.pdf - É um livro que mostra 500 comandos do Linux para instruir o usuário sobre como usar o sistema operacional.
 
